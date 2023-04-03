@@ -1,1 +1,1 @@
-# We haven't finished the implementation yet!
+# Our first try to implement the idea.
